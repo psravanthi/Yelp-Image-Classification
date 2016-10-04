@@ -9,4 +9,4 @@ Contents:
 Feature_extract.py : Object detection using HOG and Feature extraction using embedded space paradigm
 Model_svm.ipynb : SVM for classification
 
-I'm working on improving the results by using convoluted neural nets. 
+I'm working on further improving the results by using convoluted neural nets. 
